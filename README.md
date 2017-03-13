@@ -1,37 +1,5 @@
-## Welcome to GitHub Pages
+# Tensorflow.basics.tutorial中文版
+本教程是Tensorflow basics tutorial的中文版，旨在讲解Tensorflow的python API使用，并配有相应的程序解析。
 
-You can use the [editor on GitHub](https://github.com/Hourout/Tensorflow-basics-tutorial-with-python/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+由于官网并未有API的详细案例说明，且英文说明简洁意赅，本教程是Tensorflow中文社区一个很好的补充。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Hourout/Tensorflow-basics-tutorial-with-python/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
