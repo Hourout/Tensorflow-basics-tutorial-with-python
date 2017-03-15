@@ -1,4 +1,4 @@
-# Tensorflow.basics.tutorial中文版
+# Tensorflow.basics.tutorial中文教程
 Tensorflow是一个用于机器智能的开源软件库
 
 TensorFlow是谷歌基于DistBelief进行研发的第二代人工智能学习系统，其命名来源于本身的运行原理。Tensor（张量）意味着N维数组，Flow（流）意味着基于数据流图的计算，TensorFlow为张量从流图的一端流动到另一端计算过程。TensorFlow是将复杂的数据结构传输至人工智能神经网中进行分析和处理过程的系统。
